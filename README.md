@@ -1,6 +1,6 @@
 # How-to-configure-TensorFlow-GPU-on-Ubuntu_16_04
 
-Update: 2018年7月14日
+**[Update: 2018年7月14日]**
 
 本教程配置环境为：
 
