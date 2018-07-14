@@ -2,7 +2,7 @@
 
 **[Updated1: 2018年7月14日]**
 
-1. [tensorflow_gpu-1.9.0 (229.6 MB)  Jul 10, 2018](https://pypi.org/project/tensorflow-gpu/#files)
+- 配置 [tensorflow_gpu-1.9.0 (229.6 MB)  Jul 10, 2018](https://pypi.org/project/tensorflow-gpu/#files)
 
 ## 概述
 
